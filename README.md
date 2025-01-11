@@ -2,7 +2,7 @@
 This project simplifies the audio editing process, saving time for content creators and streamers. 
 
 # Project Description:
-This project is a Python script that is requested to automatically separate audio channels from .mp4 video files with multi-channel audio switching. ShadowPlay typically uses two distinct audio channels: one for the microphone (user's voice) and another for the system audio (game and application sounds). The script analyzes these audio streams and exports each as a separate .mp3 file.
+This project is a Python script that is requested to automatically separate audio channels from .mp4 video files with multi-channel audio switching. I created this for NVIDIA ShadowPlay. It typically uses two distinct audio channels: one for the microphone (user's voice) and another for the system audio (game and application sounds). The script analyzes these audio streams and exports each as a separate .mp3 file.
 
 # Features:
 Scans and processes .mp4 files in the working directory.
